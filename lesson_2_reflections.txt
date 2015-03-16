@@ -3,4 +3,4 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Files in the staging area are a subset of files in the WD that aren't but will be added to next comit. They are not yet in the repository.
-It allows a subset of the WD to be added to a commit.  
+It allows a subset of the WD to be added to a commit.
